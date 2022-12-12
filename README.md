@@ -1,5 +1,11 @@
-### Hi there 👋
+What's up👋
 
+My name is Vladyslav.
+- 🔭 I'm highly interested in IT and want to become a Software developer.
+- ⚡ Know Python.
+- 🌱 Learn PHP and JS.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LV-coding&hide=css&theme=tokyonight)
 <!--
 **LV-coding/LV-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
